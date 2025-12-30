@@ -1,0 +1,9 @@
+opencv-python
+transformers
+accelerate
+insightface
+diffusers
+torch
+numpy
+Pillow
+protobuf
